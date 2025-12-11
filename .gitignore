@@ -1,0 +1,11 @@
+node_modules
+.env
+.next
+
+# Next.js build output
+/.next
+/out
+/build
+
+.env*
+.vercel
